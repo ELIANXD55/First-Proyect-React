@@ -1,0 +1,31 @@
+.taskinfo {
+    background-color: aquamarine;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.buttonupdate {
+    background-color: rgb(18, 204, 89);
+}
+
+.buttomedit {
+    background-color: rgb(241, 206, 7);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-right: auto;
+    margin-left: 100px;
+}
+
+
+.buttomdelete {
+    background-color: rgb(241, 7, 7);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-right: auto;
+    margin-left: 10px;
+}
